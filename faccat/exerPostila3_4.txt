@@ -1,0 +1,62 @@
+3) Classifique os conteúdos das variáveis a seguir de acordo com seu tipo, assinalando com I para
+
+
+MANZANO, José Augusto N. G., Estudo Dirigido: ALGORITMOS - Editora Erica, 2000.
+
+inteiros, R para reais, L para lógicos e C para literais:
+
+a. (I) 0
+
+b. (L) Verdadeiro
+
+c. (C) "Falso"
+
+d. (R) 5.7
+
+e. (R) 45.8976
+
+f. (I) 678
+
+g. (C) "cinco"
+
+h. (C) "443"
+
+i. (L) Falso
+
+j. (C) "0"
+
+k. (C) "Casa B
+
+1. (I ) 34
+
+4) Assinale com um X os nomes de variáveis válidos:
+
+a. (x) abc
+
+d. () guarda-chuva
+
+g. (x) guarda_chuva
+
+j. () #fone
+
+b. () Verdadeiro
+
+e.() etc.
+
+f. (x) zero
+
+h.() leia
+
+i. () nome*usuario
+
+k. () Casa 8
+
+1. (x) endereco
+
+m. () cinco"
+
+n. () falso
+
+c. ( ) 21brasil
+
+o. (x)_falso
